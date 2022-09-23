@@ -27,3 +27,7 @@ $ pip install -r requirements.txt
 - Hardware files for the custom OBD2 module.
 - Firmware projects for the custom OBD2 module.
 - Source code for the mobile application.
+
+
+
+https://www.youtube.com/watch?v=cAAzXM5vsi0&list=PLNiFaO8hU1z0o_6DSxk-jcVAM3UCUR-pY&index=2
